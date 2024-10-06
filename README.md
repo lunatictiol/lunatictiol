@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sabiq Aijaz</h1>
 <h3 align="center">Developer</h3>
 
-- 🌱 I’m currently learning **java go springboot backend and angular**
+- 🌱 I’m currently learning ** go backend and angular**
 
 - 📫 How to reach me **bhatsabiq9@gmail.com**
 
