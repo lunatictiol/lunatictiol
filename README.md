@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sabiq Aijaz</h1>
 <h3 align="center">FullStack developer</h3>
 
-- 🌱 I’m currently learning **Go,Angular and maybe Htmx**
+- 🌱 I’m currently learning **Go and maybe Htmx**
 
 - 📫 How to reach me **bhatsabiq9@gmail.com**
 
