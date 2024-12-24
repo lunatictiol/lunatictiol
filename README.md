@@ -14,6 +14,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
+![](https://raw.githubusercontent.com/noblemajo/noblemajo/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 <p align="left">
   
 
