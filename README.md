@@ -29,7 +29,6 @@
 </p>
 <h3 align="left">
   Connect with me:
-  <img height="50" weidth="50" src="https://user-images.githubusercontent.com/74038190/216655848-cf4d7bed-52aa-4740-8c67-1832472051ec.gif"/>
 </h3>
 <p align="left">
 LinkedIn:  
@@ -41,4 +40,3 @@ Twitter:
 
 </p>
 
-![](https://raw.githubusercontent.com/noblemajo/noblemajo/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
