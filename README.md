@@ -17,14 +17,10 @@
 
 <p align="center">
 <p align="center" ><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=lunatictiol&show_icons=true&locale=en&layout=compact" alt="lunatictiol"/></p>
-<p align="center">  
- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="80" height="80"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="80" height="80"/>
-  <img src="https://hyno.co/images/Blogs/2023-06-13-150446-1686825833778-compressed.png" alt="react native" width="100" height="80"/>
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSv5QItWE-mqhM2g0FY8Kr131kYfpfcLd7GGw&s" alt="expo" width="100" height="80"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="80" height="80"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="80" height="80"/> 
- </p>  
+<div align="center">  
+ 
+  [![My Skills](https://skillicons.dev/icons?i=go,swift,kotlin,html,htmx,ts,js,nodejs,angular,react,tailwind,mongodb,mysql,docker,git&theme=dark)](https://skillicons.dev)
+ </div>  
 </p> 
 </p>
 <h3 align="left">
