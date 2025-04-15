@@ -13,7 +13,7 @@
 <p align="center" ><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=lunatictiol&show_icons=true&locale=en&layout=compact" alt="lunatictiol"/></p>
 <div align="center">  
  
-  [![My Skills](https://skillicons.dev/icons?i=go,swift,kotlin,html,htmx,ts,js,nodejs,react,mongodb,mysql,docker,git&theme=dark)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=go,ts,react,mongodb,mysql,docker,git&theme=dark)](https://skillicons.dev)
  </div>  
 </p> 
 </p>
