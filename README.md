@@ -6,9 +6,7 @@
     <img src="https://user-images.githubusercontent.com/74038190/212898774-0a96dc1d-c908-4ce8-9dd7-a71aab6e1c2b.gif" />
     </td> 
     <td align="center" valign="middle">
-      <a href="https://git.io/typing-svg">
-        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=36&duration=2000&color=00F72A&multiline=true&width=1000&height=150&lines=Engineer+;Developer+;I+Tinker%2C+Break+%26+Build+Everything+%E2%9A%A1" alt="Typing SVG" />
-      </a>
+ <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=36&duration=2000&color=00F72A&multiline=true&width=1000&height=150&lines=%F0%9F%92%BBDeveloper;%F0%9F%9B%A0%EF%B8%8FEngineer+;%E2%9A%A1I+Experiment%2C+Break+%26+Build+Everything" alt="Typing SVG" /></a>
     </td>
   </tr> 
 </table>
