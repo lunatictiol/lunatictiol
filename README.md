@@ -14,7 +14,7 @@
 ---
 
 ### 🛠️ Languages & Tools
-<img src="https://private-user-images.githubusercontent.com/74038190/240304586-d48893bd-0757-481c-8d7e-ba3e163feae7.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDkwMjM1ODMsIm5iZiI6MTc0OTAyMzI4MywicGF0aCI6Ii83NDAzODE5MC8yNDAzMDQ1ODYtZDQ4ODkzYmQtMDc1Ny00ODFjLThkN2UtYmEzZTE2M2ZlYWU3LnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA2MDQlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwNjA0VDA3NDgwM1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPThiMTI3ZTRhZDhjYTkxZjQ1NWVmZGEzZTQ3ODdmMWQ1NmMzMGExYWI0Yzk5ODdhMGViNWFkYTdjZDM5NmQ2YzImWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.7qwmsWbg69p_k5hzfDXskJVwm3VwDOXu8Qms5G80pmQ" />
+<img src="https://private-user-images.githubusercontent.com/74038190/240304586-d48893bd-0757-481c-8d7e-ba3e163feae7.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDk5MDU5ODMsIm5iZiI6MTc0OTkwNTY4MywicGF0aCI6Ii83NDAzODE5MC8yNDAzMDQ1ODYtZDQ4ODkzYmQtMDc1Ny00ODFjLThkN2UtYmEzZTE2M2ZlYWU3LnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA2MTQlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwNjE0VDEyNTQ0M1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTlmN2JiNjJlYmJkMDdkNzY3N2QwMWI1NTk4ZDdmZjJmMjBjYjRkNWJlYTg2NmMyYzc2NzI2YzdiMjVjY2Q2YjUmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.qCpKlpckOkj8dKc9BcMioXX_Dpiuvsc7GbsRpCbudfE" />
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lunatictiol&layout=compact&theme=radical" alt="Top Langs" />
 </p>
@@ -22,6 +22,8 @@
 </div>  
 
 ### 🌐 Connect With Me
+
+<img src= "https://user-images.githubusercontent.com/74038190/212898774-0a96dc1d-c908-4ce8-9dd7-a71aab6e1c2b.gif" />
 
 <p align="left">
   <a href="https://twitter.com/lunatictiol" target="_blank">
