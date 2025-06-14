@@ -44,11 +44,6 @@
   </td>
   </tr>
 </table>
-
-
-
-<h2 align="center">⚒️ Languages & Tools</h2>
-
 <p align="center">
   <img src="./languages.png" alt="Languages and Tools" />
 </p>
