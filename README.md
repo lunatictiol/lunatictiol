@@ -27,19 +27,13 @@
     </td>
     <td>
      <ul align="center">
-  <li>🔧 Architecting backend services with Go</li>
+  <li>🔧 Architecting backend services with python</li>
   <li>🧩 Working on full-stack apps with AI-powered features</li>
   <li>🐳 Deploying with Docker + Compose for fast local dev</li>
-  <li>📱 Building smooth mobile experiences using React Native</li>
   <li>🧠 Learning system design, exploring gRPC and scalable architecture</li>
 </ul>
     </td>
-    <td>      
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lunatictiol&layout=compact&theme=radical" alt="Top Languages" />
-</p>
 
-  </td>
   </tr>
 </table>
 <p align="center">
